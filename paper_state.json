@@ -3,6 +3,8 @@
   "cash": 1000.0,
   "positions": {},
   "closed_trades": [],
-  "last_processed_date": "2026-10-23",
-  "pending_entries": []
+  "last_processed_date": "2026-10-27",
+  "pending_entries": [
+    "BHARTIARTL.NS"
+  ]
 }
