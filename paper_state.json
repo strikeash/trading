@@ -3,6 +3,9 @@
   "cash": 1000.0,
   "positions": {},
   "closed_trades": [],
-  "last_processed_date": "2026-11-09",
-  "pending_entries": []
+  "last_processed_date": "2026-11-11",
+  "pending_entries": [
+    "AXISBANK.NS",
+    "ITC.NS"
+  ]
 }
